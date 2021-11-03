@@ -10,7 +10,7 @@ Investors looking to create a leveraged long position in an asset and creating m
 
 ### Event-Driven Investor
 
-With the thesis that an asset could either move significantly up in price or the price could collapse, an investor could may an asymmetric bet using out-of-the-money call options where the maximum downside is the capital spent on the options and a large potential upside.
+With the thesis that an asset could either move significantly up in price or the price could collapse, an investor could make an asymmetric bet using out-of-the-money call options where the maximum downside is the capital spent on the options and a large potential upside.
 
 ## Buy Put
 
