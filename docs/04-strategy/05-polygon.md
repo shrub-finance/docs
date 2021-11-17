@@ -1,4 +1,4 @@
-# Polygon
+# Why Polygon
 
 ### Reasoning
 

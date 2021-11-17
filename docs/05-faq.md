@@ -34,10 +34,6 @@ That's Bud! Bud is a shrub and he is the mascot of Shrub.finance. Bud is on an a
 
 [@micahriggan](https://twitter.com/micahriggan), [@way2rach](https://twitter.com/way2rach), and [@jguthrie7](https://twitter.com/jguthrie7) are the core team behind Shrub. All have been developing on the blockchain for over 4 years and are excited to advance what is possible in DeFi.
 
-## When will the testnet launch?
-
-The Mumbai testnet launch of Shrub is getting close. The plan is to launch in early October.
-
 ## Why does this project require the blockchain?
 
 Shrub is a decentralized exchange focused on reducing friction for writing and buying crypto options. The blockchain as the collateral/settlement layer is essential to ensure fairness to users and composability with other DeFi projects.
