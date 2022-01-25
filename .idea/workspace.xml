@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a11d85ed-a87f-4f40-b0d4-5de21bd16627" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/04-strategy/04-roadmap.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/04-strategy/04-roadmap.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/05-faq.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05-faq.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +33,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/static/img" />
       <recent name="$PROJECT_DIR$/docs/strategy" />
-      <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/docs/trading" />
       <recent name="$PROJECT_DIR$/static/img/tutorial" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/static/img" />
       <recent name="$PROJECT_DIR$/docs/strategy" />
       <recent name="$PROJECT_DIR$/docs" />
@@ -55,7 +56,8 @@
       <updated>1631833699557</updated>
       <workItem from="1631833702347" duration="2368000" />
       <workItem from="1637163746059" duration="1056000" />
-      <workItem from="1640236759342" duration="374000" />
+      <workItem from="1640236759342" duration="585000" />
+      <workItem from="1643137396667" duration="2292000" />
     </task>
     <servers />
   </component>
