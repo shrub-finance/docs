@@ -5,14 +5,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
   title: 'Shrub Finance',
-  tagline: 'Defi Options for Everyone',
+  tagline: 'Defi crypto options for everyone',
   url: 'https://docs.shrub.finance/',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
   favicon: 'img/favicon.ico',
-  organizationName: 'shrub-finance', // Usually your GitHub org/user name.
-  projectName: 'shrub-finance', // Usually your repo name.
+  organizationName: 'shrub-finance', // GitHub org/user name.
+  projectName: 'shrub-finance', // repo name.
 
   presets: [
     [
@@ -101,7 +101,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Shrub.`,
+        copyright: `© ${new Date().getFullYear()} Shrub Finance, Inc.`,
       },
       prism: {
         theme: lightCodeTheme,
