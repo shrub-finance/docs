@@ -79,7 +79,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.gg/EahvCyUYqk',
+                href: 'https://discord.gg/csusZhYgTg',
               },
               {
                 label: 'Twitter',

@@ -48,7 +48,7 @@ Shrub will continue to listen to users and evaluate blockchains that enable low-
 
 Shrub will keep everyone up to date on Shrub news via our Twitter [@shrubfinance](https://twitter.com/shrubfinance).
 
-Have any questions about the project? The best way is to join [Shrub Discord server](https://discord.gg/EahvCyUYqk). Unlike a lot of other projects, Shrub's core team makes a point to be available and respond to every question.  
+Have any questions about the project? The best way is to join [Shrub Discord server](https://discord.gg/csusZhYgTg). Unlike a lot of other projects, Shrub's core team makes a point to be available and respond to every question.  
 
 ## How can I become a contributor to Shrub?
 We are always looking for people who believe in our mission, and want to see it through together. Shrub is a community driven project. Most of our team members came from the community organically. 
