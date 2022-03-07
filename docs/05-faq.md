@@ -57,11 +57,11 @@ Have a role in mind? Get in touch with the core team in Discord.
 
 ## What is Paper Gardens and how does it tie to Shrub Finance?
 
-We wanted to bring the most interesting way to learn crypto options to the space. Paper Gardens is our answer. 
+We wanted to bring the most interesting way to learn crypto options to the space. Paper Gardens is an interactive multi-chapter story tied to Shrub Paper. Full of NFTs, rewards, and surprises. To learn more visit: https://gardens.shrub.finance
 
-Paper Gardens is an interactive multi-chapter story tied to Shrub Paper. Full of NFTs, rewards, and surprises. To learn more visit: https://shrub.finance
+## What is the current state of the project?
 
-
+Shrub Paper, the paper trading platform by Shrub Finance is now live at: https://paper.shrub.finance. Paper Gardens chapter 3 will interact with Shrub Paper. To learn more about the next steps, see the Paper Gardens roadmap: https://shrub.finance/roadmap
 
 
 
