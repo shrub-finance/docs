@@ -10,7 +10,7 @@ Compared to traditional platforms Shrub offers many advantages. Users maintain c
 
 Shrub cuts out the middle man, so fees can be very low \(especially compared to the 9.5% of options portfolio value that Robinhood takes from their users - $197.9M in revenue on $2B in assets in Q1-2021\). On the Shrub platform, all of the value stays with the users.
 
-Robinhood enabled options trading for retail in the web2 world and collected their fee for being the aggregator. In the web3 world, Shrub enables cryptocurrency options trading for retail, and the community owns the platform.
+Robinhood enabled options trading for retail in the Web2 world and collected their fee for being the aggregator. In the Web3 world, Shrub enables cryptocurrency options trading for retail, and the community owns the platform.
 
 ## Why does Shrub use an order book rather than an AMM?
 
@@ -28,11 +28,8 @@ then buyers can take advantage of the "dumb" seller pool and buy options for che
 
 ## Who is that green guy on the landing page?
 
-That's Bud! Bud is a shrub and he is the mascot of Shrub.finance. Bud is on an adventure to learn more about the metaverse and the possibilities enabled by DeFi.
+That's Bud! Bud is a shrub and he is the mascot of Shrub Finance. Bud is on an adventure to learn more about the metaverse and the possibilities enabled by DeFi.
 
-## Who is the team behind Shrub?
-
-[@micahriggan](https://twitter.com/micahriggan), [@way2rach](https://twitter.com/way2rach), and [@jguthrie7](https://twitter.com/jguthrie7) are the core team behind Shrub. All have been developing on the blockchain for over 4 years and are excited to advance what is possible in DeFi.
 
 ## Why does this project require the blockchain?
 
@@ -46,22 +43,28 @@ Shrub will continue to listen to users and evaluate blockchains that enable low-
 
 ## Where can I follow updates on project progress?
 
-Shrub will keep everyone up to date on Shrub news via our Twitter [@shrubfinance](https://twitter.com/shrubfinance).
+To stay up to date on the Shrub news, you can follow us on Twitter [@shrubfinance](https://twitter.com/shrubfinance).
 
-Have any questions about the project? The best way is to join [Shrub Discord server](https://discord.gg/csusZhYgTg). Unlike a lot of other projects, Shrub's core team makes a point to be available and respond to every question.  
+You can also talk to us in [Shrub Discord](https://discord.gg/csusZhYgTg)! Shrub team makes a point to be available and respond to every question.  
 
 ## How can I become a contributor to Shrub?
-We are always looking for people who believe in our mission, and want to see it through together. Shrub is a community driven project. Most of our team members came from the community organically. 
+We are always looking for people who believe in our mission. Most of our current team came from the community. 
 
-Have a role in mind? Get in touch with the core team in Discord. 
+Want to contribute? Get in touch with the core team in [Discord](https://discord.gg/csusZhYgTg). 
 
 ## What is Paper Gardens and how does it tie to Shrub Finance?
 
-We wanted to bring the most interesting way to learn crypto options to the space. Paper Gardens is an interactive multi-chapter story tied to Shrub Paper. Full of NFTs, rewards, and surprises. To learn more visit: https://gardens.shrub.finance
+Paper Gardens is Shrub.finance's genesis NFT project, and the most technically advanced NFT series yet. The first interactive on-chain growth NFT are coming to life with this groundbreaking series. To learn more visit: https://gardens.shrub.finance
 
 ## What is the current state of the project?
 
-Shrub Paper, the paper trading platform by Shrub Finance is now live at: https://paper.shrub.finance. Paper Gardens chapter 3 will interact with Shrub Paper. To learn more about the next steps, see the Paper Gardens roadmap: https://shrub.finance/roadmap
+Shrub is building a growing suite of products for the Shrub ecosystem to enable a seamless user experience:  
+[Shrub Exchange](https://exchange.shrub.finance) — The easiest on-ramp to Polygon MATIC powered by Wyre  
+[Shrub Paper](https://paper.shrub.finance) — A paper trading platform where users can practice trading crypto options without risking real money   
+[NFT Tickets](https://medium.com/@shrubfinance/nft-tickets-the-next-generation-of-distribution-eab1e0fdc317) — Next-gen NFT distribution mechanism that provides supreme flexibility to the creators and the ability to do pre-sales 
+[Paper Gardens](https://gardens.shrub.finance) — Shrub's genesis NFT series featuring first-ever dynamic [on-chain growth NFT](https://medium.com/@shrubfinance/paper-gardens-the-first-on-chain-growth-nft-84de2e647d8f)
+
+The team is currently busy building Shrub Swap, and wrapping up the Paper Gardens series. [Learn more about Shrub's exciting roadmap here](https://medium.com/@shrubfinance/shrub-roadmap-2022-b947b5ce1435).
 
 
 
