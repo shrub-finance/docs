@@ -59,10 +59,10 @@ Paper Gardens is Shrub.finance's genesis NFT project, and the most technically a
 ## What is the current state of the project?
 
 Shrub is building a growing suite of products for the Shrub ecosystem to enable a seamless user experience:  
-[Shrub Exchange](https://exchange.shrub.finance) — The easiest on-ramp to Polygon MATIC powered by Wyre  
-[Shrub Paper](https://paper.shrub.finance) — A paper trading platform where users can practice trading crypto options without risking real money   
-[NFT Tickets](https://medium.com/@shrubfinance/nft-tickets-the-next-generation-of-distribution-eab1e0fdc317) — Next-gen NFT distribution mechanism that provides supreme flexibility to the creators and the ability to do pre-sales 
-[Paper Gardens](https://gardens.shrub.finance) — Shrub's genesis NFT series featuring first-ever dynamic [on-chain growth NFT](https://medium.com/@shrubfinance/paper-gardens-the-first-on-chain-growth-nft-84de2e647d8f)
+[Shrub Exchange](https://exchange.shrub.finance) — The easiest on-ramp to Polygon MATIC powered by Wyre  [Live]  
+[Shrub Paper](https://paper.shrub.finance) — A paper trading platform where users can practice trading crypto options without risking real money [Live]    
+[NFT Tickets](https://medium.com/@shrubfinance/nft-tickets-the-next-generation-of-distribution-eab1e0fdc317) — Next-gen NFT distribution mechanism that provides supreme flexibility to the creators and the ability to do pre-sales [Live]  
+[Paper Gardens](https://gardens.shrub.finance) — Shrub's genesis NFT series featuring first-ever dynamic [on-chain growth NFT](https://medium.com/@shrubfinance/paper-gardens-the-first-on-chain-growth-nft-84de2e647d8f) [Live]
 
 The team is currently busy building Shrub Swap, and wrapping up the Paper Gardens series. [Learn more about Shrub's exciting roadmap here](https://medium.com/@shrubfinance/shrub-roadmap-2022-b947b5ce1435).
 
